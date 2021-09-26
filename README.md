@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Self-taught programming student🔭 and technology enthusiast. HTML5 / CSS3, JavaScript and Python! Studying and improving and always improving.
+😄
 <!--
 **hagiomassaru/hagiomassaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
