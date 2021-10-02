@@ -43,7 +43,7 @@ O site dessas imagens foi https://dev.to/envoy_/150-badges-for-github-pnk
 
 -->
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
   
