@@ -37,7 +37,7 @@ Self-taught programming student🔭 and technology enthusiast. HTML5 / CSS3, Jav
   <a href = "mailto:massaruhagiopro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/massaru-hagio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/mezakigame" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/massaruhagio" target="_blank"><img src="https://img.shields.io/static/v1?label=Facebook&message=Siga-me&color=4064ac&style=for-the-badge&logo=facebook" /></a>
+  <a href="https://www.facebook.com/massaruhagio" target="_blank"><img src="https://img.shields.io/static/v1?label=Facebook&message=Follow&color=4064ac&style=for-the-badge&logo=facebook" /></a>
 
   
 <!--
