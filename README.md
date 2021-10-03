@@ -1,10 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/Envoy-VC/count.svg)
-<div style="text-align: right">
-<img src="https://jojoee.jojoee.com/api/utcnow?refresh" width="120" height="20">
-</div>
-
-##
-
 # Hi there, I'm Massaru <img align='right' src="https://bit.ly/3D4YUKb" width="50">
 
 Self-taught programming student🔭 and technology enthusiast. HTML5 / CSS3, JavaScript and Python! Studying and improving and always improving.
