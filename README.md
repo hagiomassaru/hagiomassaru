@@ -1,8 +1,7 @@
 # Hi there, I'm Massaru <img align='right' src="https://bit.ly/3D4YUKb" width="50">
 
-Self-taught programming student🔭 and technology enthusiast. HTML5 / CSS3, JavaScript and Python! Studying and improving and always improving.
-😄
-🌱 I’m currently learning Front-end web computing (HTML5,CSS3 and Javascript)
+Self-taught programming student and technology enthusiast. HTML5/CSS3, JavaScript and Python are technologies I'm working on right now and keep evolving!
+
 
 <div align="center">
   <a href="https://github.com/hagiomassaru">
