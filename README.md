@@ -1,15 +1,10 @@
 # Hi there, I'm Massaru <img align='right' src="https://bit.ly/3D4YUKb" width="50">
 
-Self-taught programming student and technology enthusiast. HTML5/CSS3, JavaScript and Python are technologies I'm working on right now and keep evolving!
-
-
-<div align="center">
-  <a href="https://github.com/hagiomassaru">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hagiomassaru&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagiomassaru&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="hagio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+🌎 Self-taught programming student and technology enthusiast.
+---
+ <br>
+<div style="display: inline">
+<ul><li> 🌱 Technologies:  <img align="center" alt="hagio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <!--   <img align="center" alt="hagio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
 <!--   <img align="center" alt="hagio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <img align="center" alt="hagio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,11 +12,30 @@ Self-taught programming student and technology enthusiast. HTML5/CSS3, JavaScrip
   <img align="center" alt="hagio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <!--   <img align="center" alt="hagio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
 <!--   <img align="right" alt="hagio-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
+  </li>
+  <br>
+  <li> 🧰 Tools: <img align="center" alt="hagio-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="hagio-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  
+  </li>
+  </ul>
+</div>
+
+<br>
+
+
+<div align="center">
+  <a href="https://github.com/hagiomassaru">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hagiomassaru&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagiomassaru&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-##
+<br>
+  
+## Contacts
   
 <div> 
+  
   <a href="https://www.youtube.com/channel/UCwApDM_vwM3zkpleioMcU_A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/MezakiHagio" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.instagram.com/massaruhagio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
