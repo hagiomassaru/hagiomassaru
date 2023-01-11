@@ -1,4 +1,4 @@
-# Hi there, I'm Massaru <img align='right' src="https://bit.ly/3D4YUKb" width="50">
+# Hi there, I'm Massaru
 
 🌎 Self-taught programming student and technology enthusiast.
 ---
